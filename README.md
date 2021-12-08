@@ -1,4 +1,4 @@
-# twanshell
+# I'm a basic bash ;)
 
 ## Introduction
 
